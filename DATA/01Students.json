@@ -1,0 +1,16 @@
+[
+{
+	"name": "Rabbit",
+	"email": "rabbit@gmail.com",
+	"contact": "9999999999",
+	"courseCount": 4,
+	"isVerified": true
+},
+{
+	"name": "Mark",
+	"email": "mark@example.com",
+	"contact": "9999999888",
+	"courseCount": 2,
+	"isVerified": false
+}
+]
